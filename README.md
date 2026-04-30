@@ -12,7 +12,8 @@
 I commit code every day. Currently focused on:
 - **NexusPay** – event‑driven fintech platform (10k+ TPS, NestJS, Kafka, DDD)
 - **Learning NestJS** – deeper patterns, modules, guards, interceptors
-- **Open source** – contributing to TypeORM, NestJS ecosystem
+- **Open source** – contributions to TypeORM and NestJS boilerplate ecosystem
+
 
 ---
 
