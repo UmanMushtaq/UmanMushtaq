@@ -40,7 +40,4 @@ Most projects built from scratch as sole or lead backend engineer.
 
 Open to backend and full-stack roles in Paris or remote within France.
 
----
-you cannot back up.
 
-Now it is past 4 AM. Close the laptop and sleep.
