@@ -3,7 +3,7 @@
 Node.js / NestJS Backend Engineer – 4+ years building production microservices in fintech, crypto, and SaaS.
 
 📍 Paris, France · Authorised to work in France
-📧 umanmushtaq72@gmail.com · 🔗 LinkedIn
+📧 umanmushtaq72@gmail.com · 🔗 LinkedIn https://www.linkedin.com/in/umanmushtaq/
 
 📅 Daily driver
 
