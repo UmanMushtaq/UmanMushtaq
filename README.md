@@ -1,63 +1,46 @@
-# 👋 Hi, I'm Uman Mushtaq
+👋 Hi, I'm Uman Mushtaq
 
-**Node.js / NestJS Backend Engineer** – 4+ years building production microservices in fintech, crypto, and SaaS.
+Node.js / NestJS Backend Engineer – 4+ years building production microservices in fintech, crypto, and SaaS.
 
-📍 Paris, France · APS visa (authorised to work in France)  
-📧 umanmushtaq72@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/umanmushtaq)
+📍 Paris, France · Authorised to work in France
+📧 umanmushtaq72@gmail.com · 🔗 LinkedIn
 
----
-
-### 📅 Daily driver
+📅 Daily driver
 
 I commit code every day. Currently focused on:
-- **NexusPay** – event‑driven fintech platform (10k+ TPS, NestJS, Kafka, DDD)
-- **Learning NestJS** – deeper patterns, modules, guards, interceptors
-- **Open source** – contributions to TypeORM and NestJS boilerplate ecosystem
 
+NexusPay – event-driven fintech platform with 7 NestJS microservices
+Deepening NestJS patterns – modules, guards, interceptors, custom providers
+Clean and Hexagonal Architecture in practice
 
----
-
-### 🗂️ Projects from my CV
+🗂️ Projects
 
 | Project | Stack | Status |
-|---------|-------|--------|
-| **[NexusPay](https://github.com/UmanMushtaq/nexuspay)** | NestJS, TS, PostgreSQL, Redis, Kafka, RabbitMQ, Docker | 🔥 Active development |
-| **Akttoo** | Node.js, Express, TS, PostgreSQL | ✅ Delivered (client discontinued) |
-| **Swiss Block** | Node.js, Express, TS, PostgreSQL | ✅ Delivered (crypto exchange) |
-| **Tracker Score** | Node.js, Express, TS, PostgreSQL | ✅ Delivered (sports API) |
-| **Dinisium** | Node.js, Express, JS, PostgreSQL, Quorum | ✅ Delivered (asset‑backed tokens) |
+|---|---|---|
+| NexusPay | NestJS, TS, PostgreSQL, Redis, Kafka, RabbitMQ, Docker | 🔥 Active development |
+| Aktoo | Node.js, Express, TS, PostgreSQL | ✅ Delivered |
+| Swiss Block | Node.js, Express, TS, PostgreSQL | ✅ Delivered (crypto exchange) |
+| Dinisium | Node.js, Express, JS, PostgreSQL, Quorum | ✅ Delivered (asset-backed tokens) |
 
-> Most projects were built from scratch as the sole or lead backend engineer. Clients discontinued after delivery – no maintenance.
+Most projects built from scratch as sole or lead backend engineer.
 
----
-
-### 🛠️ Tech stack (daily)
+🛠️ Tech stack
 
 | Category | Tools |
-|----------|-------|
+|---|---|
 | Backend | Node.js, NestJS, Express, TypeScript |
 | Databases | PostgreSQL, MongoDB, Redis |
 | Messaging | RabbitMQ, Kafka |
 | DevOps | Docker, AWS (EC2/RDS/S3), GitHub Actions |
-| Architecture | Microservices, Event‑Driven, DDD, Clean/Hexagonal |
+| Architecture | Microservices, Event-Driven, DDD, Clean/Hexagonal |
+
+📫 Let's connect
+
+💼 LinkedIn · 🐙 GitHub · 📧 umanmushtaq72@gmail.com
+
+Open to backend and full-stack roles in Paris or remote within France.
 
 ---
+you cannot back up.
 
-### 📈 Recent GitHub activity
-
-- 🚀 8+ merged PRs into NexusPay (Clean Architecture, TypeORM, User Repo)
-- 📦 Built reusable [NestJS boilerplate](https://github.com/UmanMushtaq/nestjs-boilerplate)
-- 🤝 Open source PR merged / in review for [TypeORM](https://github.com/typeorm/typeorm)
-- 🔁 Daily commits – see [my contribution graph](https://github.com/UmanMushtaq)
-
----
-
-### 📫 Let's connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/umanmushtaq)
-- 🐙 [GitHub](https://github.com/UmanMushtaq)
-- 📧 umanmushtaq72@gmail.com
-
----
-
-*Open to backend/full‑stack roles in Paris or remote within France. Relocation across Europe possible with visa support.*
+Now it is past 4 AM. Close the laptop and sleep.
