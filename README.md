@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Uman Mushtaq
 
-**Node.js / NestJS Backend Engineer** — 4+ years building production microservices in fintech, crypto, and SaaS.
+**Node.js / NestJS Backend Engineer** with 4+ years building production microservices in fintech, crypto, and SaaS.
 
 📍 Paris, France · Authorised to work in France · [umanmushtaq72@gmail.com](mailto:umanmushtaq72@gmail.com)
 
@@ -12,7 +12,7 @@
 
 I commit code every day. Currently focused on:
 
-- **[NexusPay](https://github.com/UmanMushtaq/nexuspay)** — event-driven fintech platform with 7 NestJS microservices
+- **[NexusPay](https://github.com/UmanMushtaq/nexuspay)** : event-driven fintech platform with 7 NestJS microservices
 - Deepening NestJS patterns: modules, guards, interceptors, custom providers
 - Applying Clean and Hexagonal Architecture in practice
 
@@ -60,8 +60,8 @@ Most projects built from scratch as sole or lead backend engineer.
 
 ### 🌍 Availability & Visa
 
-📍 Based in Paris, France — already legally resident, no overseas visa process required.
+📍 Based in Paris, France. Already legally resident, no overseas visa process required.
 
-🇪🇺 Open to roles across Europe. Relocation possible with employer support. EU Blue Card eligible — hiring from France is faster than from outside the EU.
+🇪🇺 Open to roles across Europe. Relocation possible with employer support. EU Blue Card eligible. Hiring from France is faster than from outside the EU.
 
 ⚡ Available immediately.
